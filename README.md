@@ -13,8 +13,3 @@ Requires administrator privileges to run, it is recommended to create a restore 
 
 ### **Disclaimer**
 ** I am not responsible for any damage, system instability, data loss, or other issues that may occur while using this optimizer. You should always create a system restore point before running any optimizations. **
-
-// WARNING: MODIFICATION PROHIBITED
-// This work is protected under CC BY-ND 4.0 terms. 
-// You may use and distribute this file, but you CANNOT modify it or share altered versions.
-// Copyright (c) 2026 gwidoniusz99.
